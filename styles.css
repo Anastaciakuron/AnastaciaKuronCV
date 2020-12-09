@@ -1,5 +1,5 @@
 body{
-    background: url('https://i.pinimg.com/564x/b4/d4/0b/b4d40b944b71141700126f38bb7dba17.jpg');;
+    background: url('https://wallpapercave.com/wp/wp3269330.png');;
     font-family: 'Nunito', sans-serif;
 }
 .name {
@@ -9,14 +9,15 @@ i.fik{
     color: purple;
 }
 #container {
-    background-color: pink;
+    background-color: rgb(172, 172, 238);
+    color: white;
 }
 a.[href] {
     font-size: 30px;
 }
 a:hover{
     color: white;
-    background-color: rgb(202, 25, 84);
+    background-color: rgb(25, 25, 155);
 }
 p::selection {
     background: pink;
@@ -29,7 +30,9 @@ div {
 }
 .hed{
     position: relative;
-    left: 240px;
+    background-color: rgb(238, 75, 102);
+    color: white;
+
 }
 .bio{
     text-align: center;
